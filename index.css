@@ -14,12 +14,14 @@ body{
 	background-color: #ff99ff;
 	height:auto;
 	width:auto;
+	overflow:auto;
 }
 
 #main{
 	background-color:#ffffff;
 	height:auto;
 	width:auto;
+	overflow:auto;
 }
 
 #intro{}
