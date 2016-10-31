@@ -12,10 +12,14 @@ body{
 	
 #header{
 	background-color: #ff99ff;
+	height:auto;
+	width:auto;
 }
 
 #main{
 	background-color:#ffffff;
+	height:auto;
+	width:auto;
 }
 
 #intro{}
