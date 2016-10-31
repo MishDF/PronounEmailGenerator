@@ -7,11 +7,11 @@ body{
 	margin-left: 30px;
 	margin-right: 30px;
 	margin-top: 30px;
-	background-color: #66e0ff;
+	background-color: #66e0ff; /*working in file but not on gh page*/
 }
 	
 header{
-	
+	background-color: #ff99ff; /*working in file but not on gh page*/
 }
 
 #intro{}
