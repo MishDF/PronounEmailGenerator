@@ -10,8 +10,12 @@ body{
 	background-color: #66e0ff; 
 }
 	
-header{
+#header{
 	background-color: #ff99ff;
+}
+
+#main{
+	background-color:#ffffff;
 }
 
 #intro{}
