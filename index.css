@@ -24,6 +24,7 @@ body{
 	height:auto;
 	width:auto;
 	overflow:auto;
+	padding:10px;
 }
 
 #intro{}
