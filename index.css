@@ -4,11 +4,12 @@
 body{
 	font-family: Tahoma;
 	font-size: 16px;
-	margin-left: 30px;
-	margin-right: 30px;
+	margin-left: auto;
+	margin-right: auto;
 	margin-top: 30px;
 	background-color: #cce6ff; 
 	margin:center;
+	width:80%;
 }
 	
 #header{
