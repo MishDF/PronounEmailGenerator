@@ -8,7 +8,7 @@ body{
 	margin-right: 30px;
 	margin-top: 30px;
 	background-color: #66e0ff; 
-margin:center;
+	margin:center;
 }
 	
 #header{
@@ -16,7 +16,7 @@ margin:center;
 	height:auto;
 	width:auto;
 	overflow:auto;
-text-align:center;
+	text-align:center;
 }
 
 #main{
