@@ -36,17 +36,21 @@ body{
 	padding: 20px;
 }
 
-#intro{}
+#intro{
+
+}
 
 #form{
 	padding: 10px;
 }
 
 #messageDiv{
-	position: relative;
+
 }
 
-#suggestion{}
+#suggestion{
+
+}
 
 #footer{
 	font-size:10px;
