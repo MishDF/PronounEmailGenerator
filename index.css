@@ -52,7 +52,8 @@ body{
 }
 
 textarea{
-	overflow:auto;
+	overflow:scroll;
+	resize: none;
 	max-height:300px;
 }
 
