@@ -12,6 +12,13 @@ body{
 	width:60%;
 	min-width: 500px;
 }
+
+@media only screen and (max-device-width: 480px) {
+  /* define mobile specific styles come here */
+	body{
+		width:90%;
+	}
+}
 	
 #header{
 	background-color: #ffe6f3;
