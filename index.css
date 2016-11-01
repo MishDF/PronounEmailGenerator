@@ -10,6 +10,7 @@ body{
 	background-color: #cce6ff; 
 	margin:center;
 	width:60%;
+	min-width: 500px;
 }
 	
 #header{
