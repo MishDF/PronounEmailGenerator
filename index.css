@@ -18,6 +18,9 @@ body{
 	body{
 		width:90%;
 	}
+	#form{
+		font-size: 16px;
+	}
 }
 	
 #header{
@@ -43,11 +46,11 @@ body{
 
 #form{
 	padding: 10px;
-	font-size: 16px;
 }
 
 #messageDiv{
 	height:auto;
+	overflow:auto;
 }
 
 #suggestion{
