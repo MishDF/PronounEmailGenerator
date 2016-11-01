@@ -35,13 +35,16 @@ body{
 	padding: 10px;
 }
 
-#messageDiv{}
+#messageDiv{
+	position: relative;
+}
 
 #suggestion{}
 
 #footer{
 	font-size:10px;
 	padding-top:20px;
-	position: relative;
+	position: absoltute;
+	bottom:0;
 }
 
