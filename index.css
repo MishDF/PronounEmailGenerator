@@ -41,5 +41,6 @@ body{
 #footer{
 	font-size:10px;
 	padding-top:20px;
+	position: relative;
 }
 
