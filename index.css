@@ -53,7 +53,7 @@ body{
 
 textarea{
 	overflow:auto;
-	resize: horizontal;
+	max-height:300px;
 }
 
 #suggestion{
