@@ -17,8 +17,9 @@ body{
   /* define mobile specific styles come here */
 	body{
 		width:90%;
+		background-color: #000000; /*test*/ 
 	}
-	#form{
+	#form.p{
 		font-size: 16px;
 	}
 }
