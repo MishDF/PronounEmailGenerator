@@ -52,7 +52,7 @@ body{
 }
 
 textarea{
-	overflow: scroll;
+	overflow: auto;
 	resize: none;
 	/*max-height:300px;*/
 }
