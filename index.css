@@ -53,6 +53,7 @@ body{
 
 textarea{
 	overflow:auto;
+	resize: none;
 }
 
 #suggestion{
