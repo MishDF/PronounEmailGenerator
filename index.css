@@ -34,6 +34,7 @@ body{
 	width:auto;
 	overflow:auto;
 	padding: 20px;
+	position:relative;
 }
 
 #intro{
