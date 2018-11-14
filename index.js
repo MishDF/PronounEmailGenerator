@@ -14,3 +14,13 @@ function generate(){
 		//can be done neater??
 		
 	}
+	
+function clear(){
+	document.getElementById("userName").value=''; 
+	document.getElementById("offName").value='';
+	document.getElementById("pronouns").value='';
+	document.getElementById("teachName").value='';
+	document.getElementById("class").value='';
+	document.getElementById("institute").value='';
+	
+}

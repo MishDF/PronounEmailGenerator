@@ -13,15 +13,35 @@ body{
 	min-width: 500px;
 }
 
+.button{
+	font-size: 16px;
+}
+
+
 @media only screen and (max-device-width: 480px) {
   /* define mobile specific styles come here */
 	body{
 		width:90%; 
 	}
-	#form.p{
-		font-size: 16px;
+	#form p{
+		font-size: 36px;
+
 	}
+	textarea{
+		font-size: 14px;
+		height: 800px;
+	}
+	.button{
+		/*space them out*/
+		font-size: 36px;
+	}
+	#form input{
+		font-size: 36px;
+	}
+	/*need to make buttons, labels & boxes in form scale properly*/
 }
+
+/*need to do something for ipad sizes*/
 	
 #header{
 	background-color: #ffe6f3;
@@ -47,6 +67,8 @@ body{
 	padding: 10px;
 }
 
+
+
 #messageDiv{
 
 }
@@ -54,8 +76,10 @@ body{
 textarea{
 	overflow: auto;
 	resize: none;
-	height:300px;
-	width: 400px;
+	width: 100%;
+	height:500px;
+	font-family: Tahoma;
+	font-size: 14px;
 }
 
 #suggestion{
